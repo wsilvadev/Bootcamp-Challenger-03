@@ -8,14 +8,19 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "babel-eslint": "^10.0.3",
+    "editorconfig": "^0.15.3",
+    "prettier-eslint": "^9.0.0",
     "react": "16.8.6",
-    "react-native": "0.60.0"
+    "react-native": "0.60.0",
+    "react-native-maps": "0.26.1"
   },
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@babel/runtime": "^7.6.3",
     "@react-native-community/eslint-config": "^0.0.5",
     "babel-jest": "^24.9.0",
+    "babel-plugin-root-import": "^6.4.1",
     "eslint": "^6.6.0",
     "jest": "^24.9.0",
     "metro-react-native-babel-preset": "^0.56.3",
