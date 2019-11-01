@@ -1,5 +1,5 @@
 import React from "react";
-import Maps from "./src/map";
+import Maps from "./src/screen/map";
 // import { Container } from './styles';
 
 const BootcampChallenger03 = () => <Maps />;
